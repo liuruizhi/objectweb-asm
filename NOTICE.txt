@@ -1,0 +1,1 @@
+Extract project from sources https://github.com/JetBrains/intellij-community/commits/master/lib/src/asm-src.zip
